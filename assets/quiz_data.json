@@ -1,0 +1,70 @@
+{
+    "questions": [
+      {
+        "question": "1. What is the capital city of Sri Lanka?",
+        "answers": ["Colombo", "Kandy", "Galle", "Jaffna"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "2. Which ocean surrounds Sri Lanka?",
+        "answers": [
+          "Indian Ocean",
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Arctic Ocean"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "3. What is the official language of Sri Lanka?",
+        "answers": ["English", "Malay", "Sinhala", "Tamil"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "4. Which planet is known as the Red Planet?",
+        "answers": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "5. In which year did the Titanic sink?",
+        "answers": ["1912", "1920", "1905", "1935"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "6. Who painted the Mona Lisa?",
+        "answers": [
+          "Vincent van Gogh",
+          "Leonardo da Vinci",
+          "Pablo Picasso",
+          "Claude Monet"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "7. What is the largest mammal on Earth?",
+        "answers": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "8. Which element has the chemical symbol O?",
+        "answers": ["Oxygen", "Gold", "Iron", "Carbon"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "9. Who is the author of To Kill a Mockingbird?",
+        "answers": [
+          "Harper Lee",
+          "J.K. Rowling",
+          "George Orwell",
+          "Ernest Hemingway"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "10. What is the capital of Japan?",
+        "answers": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+  
